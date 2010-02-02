@@ -26,5 +26,5 @@ ZSH=`which zsh`
 chsh -s $ZSH
 
 echo "Hooray! Oh My Zsh has been installed."
-`$ZSH`
+$ZSH
 source ~/.zshrc
