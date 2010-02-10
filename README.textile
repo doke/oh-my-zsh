@@ -8,6 +8,10 @@ h3. The automatic installer... (do you trust me?)
 
 @wget http://github.com/doke/oh-my-zsh/raw/master/tools/install.sh -O - | sh@
 
+or with curl:
+
+@curl http://github.com/doke/oh-my-zsh/raw/master/tools/install.sh | sh@
+
 h3. The manual way
 
 
